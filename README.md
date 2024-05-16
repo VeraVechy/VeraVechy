@@ -1,8 +1,8 @@
-# Hi there, I'm Vera 👋
+# Hi, I'm Vera 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=veravechy.veravechy)
+![visitors](https://komarev.com/ghpvc/?username=veravechy&color=blue)
 
-## Who Vera Is
+## About Vera
 - 🔭 I’m currently working on solution web apps.
 - 🌱 I’m currently learning Flutter and Dart.
 - 👯 I’m looking to collaborate on open-source projects.
@@ -17,7 +17,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=veravechy&theme=onedark)
 
 ## GitHub Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=veravechy&theme=react-dark)
+[![Vera's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=veravechy&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Connect with me:
 [![Linkedin](https://img.shields.io/badge/-VeraEzejioha-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vera-ezejioha-4037ab140/)
