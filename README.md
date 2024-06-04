@@ -1,10 +1,8 @@
 # Hi, I'm Vera 👋
 
-![visitors](https://komarev.com/ghpvc/?username=veravechy&color=blue)
 
 ## About Vera
 - 🔭 I’m currently working on solution web apps.
-- 🌱 I’m currently learning Flutter and Dart.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Let's discuss software development.
 - 📫 Do you wish to connect?: verachinwa@gmail.com
